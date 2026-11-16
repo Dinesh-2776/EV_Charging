@@ -1,0 +1,171 @@
+id,title,town,lat,lon,operator,usage,status,points,max_power_kw,connectors
+309267,JW Marriott,Bengaluru,12.97228768658023,77.59492658243641,Chargezone (India),Public,Operational,1.0,60.0,CCS (Type 2)
+309268,Sundaram Motors,Bengaluru,12.973845154518216,77.59597891080779,Chargezone (India),Public,Operational,1.0,90.0,CCS (Type 2)
+309097,ibis Bengaluru City Centre,Bengaluru,12.96751,77.5939,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2)
+309099,ITC Gardenia Bengaluru,Bengaluru,12.96728,77.59552,Statiq (IN),Public,Operational,1.0,30.0,CCS (Type 2)
+309270,BMW Navnit Motors,Bengaluru,12.97259859569182,77.59908118684689,(Unknown Operator),Public,Operational,1.0,24.0,CCS (Type 2)
+103614,Ather Grid Point - 6000 Miles to Isle of Man,Bengaluru,12.9756828,77.5982326000001,(Unknown Operator),Public,Operational,1.0,3.0,Type M
+309269,Hotel Southern Star,Bengaluru,12.974727464060706,77.59942186908683,Tata Power,Public,Operational,1.0,30.0,CCS (Type 2)
+309266,Audi Central,Bengaluru,12.97001545590929,77.6004747835533,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+103746,BESCOM Head Office,Bengaluru,12.9755314120859,77.5883364581665,(Business Owner at Location),Public,Operational,1.0,3.6,Blue Commando (2P+E); CHAdeMO
+309098,Divyasree Chambers,Bengaluru,12.96192,77.59922,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+480741,Doddanekundi Lake Walk,Bengaluru,12.971127783287287,77.60600597994562,,,Operational,1.0,,
+309271,Forum Rex Walk,Bengaluru,12.972458,77.606851,Statiq (IN),Public,Operational,4.0,30.0,CCS (Type 2)
+309272,Vivanta by Taj Residency Road,Bengaluru,12.97248838809081,77.60854161055966,Tata Power,Public,Operational,1.0,30.0,CCS (Type 2); Type 2 (Tethered Connector) 
+309319,Freedom Park,Bengaluru,12.97859,77.58139,Bolt.Earth (IN),Public,Operational,1.0,25.0,CCS (Type 2)
+472508,Charging station,,12.960850473046193,77.58182473802742,(Unknown Operator),Public - Membership Required,Operational,1.0,,CCS (Type 2)
+309273,Welcomhotel Richmond Road,Bengaluru,12.968709974182843,77.61440938105488,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+308804,The Rialto Hotel,Bengaluru,12.98026,77.57661,Zeon Charging,Public,Operational,1.0,7.0,Type 2 (Tethered Connector) 
+308757,Renaissance Bengaluru Race Course Hotel,Bengaluru,12.98439,77.57639,Chargezone (India),Public,Operational,1.0,60.0,CCS (Type 2)
+309293,"The Oberoi, Bengaluru",Bengaluru,12.972788253204087,77.6184047836071,Tata Power,Public,Operational,1.0,60.0,CCS (Type 2)
+309294,Taj MG Road,Bengaluru,12.97331434540071,77.6195781000381,Tata Power,Public,Operational,1.0,30.0,CCS (Type 2); IEC 60309 3-pin
+308805,Radisson Bengaluru City Center,Bengaluru,12.97622,77.61948,Zeon Charging,Public,Operational,1.0,22.0,Type 2 (Tethered Connector) 
+309295,The Park Hotel,Bengaluru,12.973940635420362,77.61988884794027,Tata Power,Public,Operational,1.0,30.0,CCS (Type 2); Type 2 (Tethered Connector) 
+309296,Carzonrent,Bengaluru,12.974519436687544,77.62146110718822,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+103606,Ather Grid Point - Moto Store & Cafe,Bangalore,12.9875541362772,77.6208706943579,(Unknown Operator),Public,Operational,1.0,3.0,Unknown
+308806,RMZ MILLENIA,Bengaluru,12.98247,77.62461,Zeon Charging,Public,Operational,1.0,24.0,CCS (Type 2)
+309320,"Global Mall, Okalipuram",Bengaluru,12.98211,77.56317,Rebolt (IN),Public,Operational,1.0,30.0,CCS (Type 2)
+308809,Nexus Mall Koramangala,Bengaluru,12.93484,77.6118,Zeon Charging,Public,Operational,1.0,24.0,CCS (Type 2); Type 2 (Tethered Connector) 
+103613,Ather Grid Point - Sunny Side Bistro,Bengaluru,13.0018168,77.6235465,(Unknown Operator),Public,Operational,1.0,3.0,Unknown
+308803,GT World Mall,Bengaluru,12.97396,77.55157,Zeon Charging,Public,Operational,1.0,22.0,Type 2 (Tethered Connector) 
+103616,Ather Space,Bengaluru,12.9756892941475,77.6412298094218,(Unknown Operator),Public,Operational,4.0,3.0,Unknown
+309189,Orion Avenue,Bengaluru,13.001137938818005,77.63254,JIO BP Pulse (India),Public,Operational,2.0,60.0,CCS (Type 2); Type 2 (Tethered Connector) 
+173082,Tata Fast Charger,Bangalore,12.952438850806772,77.63973152758626,Tata Power,Public - Membership Required,Operational,2.0,22.0,CCS (Type 2)
+309297,Divyashree Greens,Bengaluru,12.952724425242494,77.64085233195198,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+103612,Ather Grid Point - Patel's Inn,Bengaluru,13.0212463,77.5980284,(Unknown Operator),Public,Operational,1.0,3.0,Unknown
+107668,AtherGrid Go Native Cafe,Bangalore,12.9224636436796,77.5846883396955,,Public,Operational,1.0,2.0,Unknown
+308799,"Prerana Motors, Rajaji Nagar",Bengaluru,12.99935,77.54971,Tata Power,Public,Operational,1.0,25.0,CCS (Type 2); CHAdeMO
+216992,SemaConnect Bangalore(Wait list Enabled) - 5,Bowie,12.968634,77.649965,SemaConnect,Public,Temporarily Unavailable,,3.7,Type 1 (J1772)
+308800,Orion Mall Outside,Bengaluru,13.009553121997012,77.55461112998876,Zeon Charging,Public,Operational,4.0,30.0,CCS (Type 2); Type 2 (Tethered Connector) 
+308801,Orion Brigade Gateway,Bengaluru,13.01105,77.55471,JIO BP Pulse (India),Public,Operational,2.0,60.0,CCS (Type 2); Type 2 (Tethered Connector) 
+308802,Sheraton Grand Bangalore Hotel at Brigade Gateway,Bengaluru,13.01275,77.55504,Chargezone (India),Public,Operational,1.0,30.0,CCS (Type 2)
+309274,BESCOM Byatarayanapura,Bengaluru,12.950278857508295,77.54055692747397,(Unknown Operator),Public,Operational,1.0,15.0,CCS (Type 2)
+308810,Kabra Excelsior,Bengaluru,12.92786,77.63306,Zeon Charging,Public,Operational,1.0,50.0,CCS (Type 2)
+103609,Ather Grid Point - Caf Eleven,Bengaluru,12.9233342441394,77.5548753083467,(Unknown Operator),Public,Operational,1.0,3.0,Unknown
+103611,Ather Grid Point - Chapter One,Bengaluru,13.0323019,77.5697127,(Unknown Operator),Public,Operational,1.0,3.0,Unknown
+308731,Shell Recharge Mysore Road,Bengaluru,12.94696,77.53247,Shell Recharge (IN),Public,Operational,5.0,120.0,CCS (Type 2); IEC 60309 3-pin
+309351,Lithium Charging Station,Bengaluru,13.014903182800126,77.6462047089708,(Unknown Operator),Public - Membership Required,Operational,1.0,30.0,CCS (Type 2)
+308891,Shell Recharge Old Madras Road,Bengaluru,12.9923,77.65942,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2); IEC 60309 3-pin
+309299,"Bengaluru One, Old Airport Road",Bengaluru,12.95925146155301,77.6627608005785,(Unknown Operator),Public,Operational,1.0,25.0,CCS (Type 2)
+308807,RMZ Infinity,Bengaluru,12.99365,77.66045,Zeon Charging,Public,Operational,1.0,60.0,CCS (Type 2)
+309285,The Pavilion 2,Bengaluru,12.90375,77.60136,Chargezone (India),Public,Operational,1.0,150.0,CCS (Type 2)
+308808,Grand Mercure Bengaluru,Bengaluru,12.99267,77.66117,Zeon Charging,Public,Operational,1.0,22.0,Type 2 (Tethered Connector) 
+309283,Anant Cars Bannerghatta Road,Bengaluru,12.90302,77.60159,Chargezone (India),Public,Operational,1.0,30.0,CCS (Type 2)
+308734,Shell Recharge Yeshwantpur,Bengaluru,13.02499,77.54759,Shell Recharge (IN),Public,Operational,5.0,120.0,CCS (Type 2); Unknown
+309278,"Key Motors, Kanakapura Main Road",Bengaluru,12.90401,77.57358,Tata Power,Public,Operational,1.0,25.0,CCS (Type 2); CHAdeMO
+309220,"Adishakti Cars, Hebbal",Bengaluru,13.04291,77.60927,Tata Power,Public,Operational,1.0,25.0,CCS (Type 2); CHAdeMO
+308758,KEVAL Charging Station,Bengaluru,13.0001,77.52435,Chargezone (India),Public,Operational,2.0,25.0,CCS (Type 2)
+308663,MEI EV charging hub,Bengaluru,13.026816255694186,77.54261284631212,Statiq (IN),Public,Operational,1.0,30.0,CCS (Type 2)
+309190,Sixth Gear Cars,Bengaluru,13.046755410837207,77.59123644794158,Chargezone (India),Public,Operational,1.0,60.0,CCS (Type 2)
+309300,Divija EV charging Station,Bengaluru,12.918010619982525,77.64926514630082,(Unknown Operator),Public,Operational,1.0,25.0,CCS (Type 2)
+308798,Taj Yeshwantpur,Bengaluru,13.028822486015997,77.54032150168894,Tata Power,Public,Operational,2.0,30.0,CCS (Type 2)
+308903,Shell Recharge Yelachenahalli,Bengaluru,12.89719,77.57071,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2); IEC 60309 3-pin
+308923,ibis Bengaluru Hosur Road,Bengaluru,12.90073,77.63203,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2)
+309188,Gokulam Grand Hotel & Spa,Bengaluru,13.04204,77.55465,Tata Power,Public,Operational,1.0,25.0,CCS (Type 2); Type 2 (Tethered Connector) 
+309187,Elements Mall,Bengaluru,13.04612,77.6269,Statiq (IN),Public,Operational,3.0,150.0,CCS (Type 2)
+309298,KTC Legacy Charging Station,Bangalore,12.945761639147051,77.67413004669817,(Unknown Operator),Public,Operational,1.0,60.0,CCS (Type 2)
+309281,"Key Motors, Bannerghatta Road",Bengaluru,12.88912,77.59736,Tata Power,Public,Operational,1.0,24.0,CCS (Type 2)
+308922,Blusmart Charging Station (HSR Hub),Bengaluru,12.90212,77.64191,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2); GB-T DC - GB/T 20234.3; IEC 60309 3-pin; Type 2 (Tethered Connector) 
+103607,Ather Grid Point - Fab Cafe,Bengaluru,12.9339420487577,77.517451890213,(Unknown Operator),Public,Operational,1.0,3.0,Unknown
+309309,DoubleTree Suites by Hilton Bengaluru Outer Ring Road,Bengaluru,12.919111753741149,77.66515519490173,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+309328,Forum South Bengaluru,Bengaluru,12.88919162512768,77.56343684144673,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2); Type 2 (Tethered Connector) 
+309277,BESCOM Rajarajeshwari Nagar,Bengaluru,12.92905,77.514789,(Unknown Operator),Public,Operational,1.0,50.0,CCS (Type 2)
+308889,Shell Recharge Thanisandra,Bengaluru,13.05367,77.63073,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2); IEC 60309 3-pin
+308901,Shell Recharge Haralur,Bengaluru,12.91293,77.66542,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2)
+309302,"Prerana Motors, Hongasandra",Bengaluru,12.8912,77.63829,Tata Power,Public,Operational,1.0,25.0,CCS (Type 2); CHAdeMO
+309350,MG Motor B Narayanapura,Bengaluru,12.99577,77.6847,Statiq (IN),Public,Operational,1.0,50.0,CCS (Type 2)
+308732,Jio BP Pulse,Bengaluru,12.98931,77.50062,JIO BP Pulse (India),Public,Operational,2.0,60.0,CCS (Type 2)
+508923,Sobha Corporate Office,,12.932292,77.681965,Salzer NexCharge (IN),Public - Membership Required,Operational,,7.0,Type 2 (Tethered Connector) 
+309301,Pratham Motors,Bengaluru,12.89388,77.65157,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2)
+309279,Royal Meenakshi Mall,Bengaluru,12.8759,77.59583,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+309310,Courtyard by Marriott,Bengaluru,12.928234378881882,77.68218794687056,Chargezone (India),Public,Operational,1.0,60.0,CCS (Type 2)
+308811,Novotel Bengaluru Outer Ring Road,Bengaluru,12.9299,77.68317,Zeon Charging,Public,Operational,1.0,22.0,Type 2 (Tethered Connector) 
+308890,Shell Recharge TC Palya,Bengaluru,13.02234,77.67867,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2); IEC 60309 3-pin
+502292,MobiLane Ecospace,Bengaluru,12.9249701,77.68147802,(Unknown Operator),Public,Operational,1.0,,Unknown
+309316,Exora Business Park,Bengaluru,12.94329,77.69229,(Unknown Operator),Public,Operational,1.0,60.0,CCS (Type 2)
+308899,Shell Recharge Prestige Tech Park,Bengaluru,12.94269,77.69235,Shell Recharge (IN),Public,Operational,1.0,30.0,CCS (Type 2); IEC 60309 3-pin
+188200,Hosa Road, Chikkanayakanahalli,12.911521506082025,77.67629825827191,(Unknown Operator),Public - Membership Required,Operational,1.0,3.3,Type 2 (Tethered Connector) 
+309311,The Bay at Ecoworld,Bengaluru,12.921003663939288,77.68539425864924,(Unknown Operator),Public,Operational,1.0,80.0,CCS (Type 2)
+308812,RMZ EcoWorld,Bengaluru,12.92542,77.68788,Zeon Charging,Public,Operational,1.0,50.0,CCS (Type 2)
+502295,MobiLane The Bay at Ecoworld,Bengaluru,12.92096727,77.68547587,(Unknown Operator),Public,Operational,1.0,80.0,Unknown
+309312,RMZ Eco World,Bengaluru,12.92099415205729,77.6860545556384,Zeon Charging,Public,Operational,1.0,50.0,CCS (Type 2)
+309315,Aloft Bengaluru Outer Ring Road ,Bengaluru,12.93674468018763,77.69488851137544,Chargezone (India),Public,Operational,1.0,60.0,CCS (Type 2)
+309303,"More Hypermarket, Hosur Road",Bengaluru,12.88014,77.64592,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+309349,Trifecta Addatto,Bengaluru,12.994305942257284,77.69929493060977,Statiq (IN),Public,Operational,4.0,60.0,CCS (Type 2)
+308900,Shell Recharge Marathahalli,Bengaluru,12.94285,77.69782,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2); IEC 60309 3-pin
+308678,Akshaya Motors Mercedes-Benz,Bengaluru,12.923963230811792,77.49720824597415,Chargezone (India),Public,Operational,1.0,90.0,CCS (Type 2)
+309317,"Jio-BP Pulse Hub, Marathalli",Bengaluru,12.95179,77.70207,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2); GB-T DC - GB/T 20234.3; IEC 60309 3-pin; Type 2 (Tethered Connector) 
+103610,Ather Grid Point - Royal Airawat Residency,Bengaluru,12.9222872,77.4954903,(Unknown Operator),Public,Operational,1.0,3.0,Unknown
+308813,Metropolis Gurukrupa Apartment,Bengaluru,12.87479,77.64694,Zeon Charging,Public,Operational,1.0,7.4,Type 2 (Tethered Connector) 
+309304,Metropolis Gurukrupa,Bengaluru,12.87544,77.64835,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2); Type 2 (Tethered Connector) 
+308898,Shell Recharge Bagmane Solarium,Bengaluru,12.9717,77.7075,Shell Recharge (IN),Public,Operational,1.0,30.0,CCS (Type 2)
+309313,Big Pitcher Sarjapur Road,Bengaluru,12.90986,77.68856,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2)
+308896,Shell Recharge Brookfield,Bengaluru,12.982973492700651,77.7080860046741,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2); IEC 60309 3-pin
+309347,BMW Deutsche Motoren,Bengaluru,12.984136068485071,77.70811153054012,(Unknown Operator),Public,Operational,1.0,50.0,CCS (Type 2); Type 2 (Tethered Connector) 
+309345,"Fairfield by Marriott, Mahadevapura",Bengaluru,12.981842444072356,77.7086328330862,Chargezone (India),Public,Operational,1.0,30.0,CCS (Type 2)
+309348,Epitome KIA Whitefield,Bengaluru,12.985769101393643,77.70856232742358,Tata Power,Public,Operational,1.0,150.0,CCS (Type 2)
+309346,Lithium Urban Tech Pvt Ltd,Bengaluru,12.98306,77.70906,(Unknown Operator),Public,Operational,1.0,60.0,CCS (Type 2)
+308917,Blusmart Charging Station (Gottigere Hub),Bengaluru,12.85845,77.58721,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2); IEC 60309 3-pin
+309305,"Kropex Auto, Hosur Road",Bengaluru,12.87194,77.65095,Tata Power,Public,Operational,1.0,25.0,CCS (Type 2); CHAdeMO
+309314,Bellandur Charging Hub,Bengaluru,12.92924,77.70305,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+309344,Prestige Technostar,Bengaluru,12.972600290996027,77.71145680417794,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2)
+308662,Shell Recharge Tumkur Road,Bengaluru,13.046725564235746,77.50216038004966,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2)
+308733,VST Central KIA,Bengaluru,13.05335,77.50798,Tata Power,Public,Operational,1.0,150.0,CCS (Type 2)
+308888,Shell Recharge Hennur,Bengaluru,13.07536,77.6524,Shell Recharge (IN),Public,Operational,4.0,120.0,CCS (Type 2); IEC 60309 3-pin
+309343,KHT Brookefield,Bengaluru,12.96712414548928,77.71696159433418,Tata Power,Public,Operational,1.0,25.0,CCS (Type 2); CHAdeMO
+309342,JLR Shakti Auto,Bengaluru,12.963582255188314,77.7173795341912,Tata Power,Public,Operational,1.0,25.0,CCS (Type 2); CHAdeMO
+309341,goEgo EV CHARGE PARK,Bengaluru,12.96316,77.71814,(Unknown Operator),Public,Operational,1.0,60.0,CCS (Type 2)
+308795,IKEA Bengaluru,Bengaluru,13.04917,77.49967,Zeon Charging,Public - Membership Required,Operational,3.0,7.2,Type 2 (Tethered Connector) 
+309306,MG Motor Hosur Road,Bengaluru,12.86563,77.65753,Statiq (IN),Public,Operational,1.0,50.0,CCS (Type 2); CHAdeMO
+308904,Shell Recharge Kanakapura Road,Bengaluru,12.86276,77.53146,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2)
+508925,Adarsh Green Apartments,,13.095707,77.610903,Salzer NexCharge (IN),Public - Membership Required,Operational,,7.0,Type 2 (Tethered Connector) 
+308921,"La Maison Citroën Hosur Road, Bengaluru",Bengaluru,12.86308,77.65922,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2)
+309339,DivyaSree LitBox,Bengaluru,12.97098961190295,77.7250244631253,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+311451,Metro Cash&Carry,Bengaluru,12.8610658784023,77.66099764437081,(Unknown Operator),Public,Operational,1.0,7.4,Type 2 (Tethered Connector) 
+308885,Shell Yelahanka New Town,Bengaluru,13.098,77.5658,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2)
+309338,Marriott Hotel Whitefield,Bengaluru,12.979262407836174,77.72744812682743,Chargezone (India),Public,Operational,1.0,30.0,CCS (Type 2)
+309337,Nexus Shantiniketan Jio-BP,Bengaluru,12.989040024957774,77.72758362256013,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2)
+309336,Nexus Shantiniketan - Statiq,Bengaluru,12.989065694796125,77.72760379808074,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+309340,"Jio-bp Pulse Hub, Siddhapura",Bengaluru,12.957173268150797,77.72954555409183,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2); GB-T DC - GB/T 20234.3; IEC 60309 3-pin
+308920,JioBP Pulse Charging Hub - Electronic City Phase II,Bengaluru,12.86462,77.67486,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2); GB-T DC - GB/T 20234.3; IEC 60309 3-pin; Type 2 (Tethered Connector) 
+309186,Jio BP Charging Hub Chikkagubbi ,Bengaluru,13.087848141186939,77.66014774782752,JIO BP Pulse (India),Public,Operational,56.0,60.0,CCS (Type 2); GB-T DC - GB/T 20234.3; IEC 60309 3-pin
+309335,Sheraton Grand Bengaluru Whitefield Hotel & Convention Center,Bengaluru,12.989215375302493,77.72961910576282,Chargezone (India),Public,Operational,1.0,30.0,CCS (Type 2)
+308886,Shell Recharge Kogilu Road,Bengaluru,13.1043,77.60448,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2); IEC 60309 3-pin
+309334,Divyasree NR Enclave,Bengaluru,12.986347110711023,77.73038387486008,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+308897,Shell Recharge Prestige Shantiniketan,Bengaluru,12.992,77.7299,Shell Recharge (IN),Public,Operational,1.0,30.0,CCS (Type 2); IEC 60309 3-pin
+308679,Kengeri Charging Hub,Bengaluru,12.9055171580421,77.47375007379192,Zeon Charging,Public,Operational,4.0,75.0,CCS (Type 2)
+311454,Electronic City - BPCL,Bengaluru,12.85327,77.6672,Statiq (IN),Public,Operational,1.0,30.0,CCS (Type 2)
+309333,Park Square Mall,Bengaluru,12.987280089618991,77.73628236461366,(Unknown Operator),Public,Operational,1.0,25.0,CCS (Type 2)
+103603,Ather Grid Point - Ascendas Park square mall,Bangalore,12.9872191,77.7364744,(Unknown Operator),Public,Operational,2.0,3.0,Unknown
+309318,Jio-BP Pulse Varthur Hub,Bengaluru,12.93979,77.73447,JIO BP Pulse (India),Public,Operational,18.0,60.0,CCS (Type 2); GB-T DC - GB/T 20234.3; IEC 60309 3-pin; Type 2 (Tethered Connector) 
+309332,Taj Vivanta Whitefield,Bengaluru,12.98720238234145,77.7373662993079,Tata Power,Public,Operational,1.0,30.0,CCS (Type 2); Type 2 (Tethered Connector) 
+103604,"International Tech Park, Bangalore",Bangalore,12.985420937588,77.7385128788513,(Unknown Operator),"Private - For Staff, Visitors or Customers",Operational,2.0,3.0,Unknown
+309076,Hotel Kadamba Veg,Bengaluru,12.9019345,77.4689096,Zeon Charging,Public,Operational,1.0,24.0,CCS (Type 2)
+311452,BloomSuites,Bengaluru,12.839685411251565,77.65952566488613,Tata Power,Public,Operational,1.0,30.0,CCS (Type 2)
+309185,Jaguar Land Rover Cars Airport Road,Bengaluru,13.11756,77.60923,Tata Power,Public,Operational,1.0,50.0,CCS (Type 2); CHAdeMO; Type 2 (Tethered Connector) 
+311453,Monk Mansion,Bengaluru,12.841088856819354,77.66441658541129,Statiq (IN),Public,Operational,2.0,60.0,CCS (Type 2)
+309330,Nexus Whitefield Statiq,Bengaluru,12.960076399887868,77.74719391663552,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
+309329,Nexus Whitefield Jio-BP,Bengaluru,12.960076399887868,77.74719391663552,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2); Type 2 (Tethered Connector) 
+103615,Ather Grid Point - Herbs and Spices,Bengaluru,12.9679246469975,77.7497762255596,(Unknown Operator),Public,Operational,1.0,3.0,Unknown
+308918,Blusmart Charging Station Electronic City Phase 1,Bengaluru,12.82734,77.65552,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2); GB-T DC - GB/T 20234.3; IEC 60309 3-pin; Type 2 (Tethered Connector) 
+309331,The Zinc By Fern Hotels,Bengaluru,12.97757571689229,77.7570895079167,(Unknown Operator),Public,Operational,1.0,24.0,CCS (Type 2)
+308895,Shell Recharge Avalahalli,Bandapura,13.04041,77.74131,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2); IEC 60309 3-pin
+309148,Kia India Training Center,Bengaluru,13.05242,77.74675,Tata Power,Public,Operational,1.0,150.0,CCS (Type 2)
+308894,Shell Recharge Budigere,,13.06226,77.74273,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2); IEC 60309 3-pin
+309149,Orion Uptown Mall,Bengaluru,13.05515,77.7638,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2); Type 2 (Tethered Connector) 
+309158,Jio BP Chikkajala,Bengaluru,13.16554,77.62933,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2)
+508924,DS Max Sky Fields,,12.954683,77.801405,Salzer NexCharge (IN),Public - Membership Required,Operational,,7.0,Type 2 (Tethered Connector) 
+309352,Miracle Dhaba,Bengaluru,13.08468,77.41488,Adani Gas-EV (TR),Public,Operational,1.0,60.0,CCS (Type 2)
+308893,Shell Recharge Mahadeva Kodigehalli,Bengaluru,13.15446,77.70277,Shell Recharge (IN),Public,Operational,1.0,30.0,CCS (Type 2)
+308661,Jio BP Nelamangala,Arasinakunte,13.086525423479687,77.4084730159021,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2)
+308919,Jio BP Chandapura,Bengaluru,12.79284,77.72766,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2)
+309150,GAIL Gas Station -Tata Power,Bengaluru,13.15341,77.72827,Tata Power,Public,Operational,1.0,30.0,CCS (Type 2)
+309157,Moxy Bengaluru Airport Prestige Tech Cloud,Bengaluru,13.19211,77.64456,Chargezone (India),Public,Operational,1.0,30.0,CCS (Type 2)
+309151,GLIDA Charging Hub,Bengaluru,13.18324,77.67608,Statiq (IN),Public,Operational,10.0,60.0,CCS (Type 2)
+309156,Click Hotel Sadahalli,Sadahalli,13.19218,77.64652,Tata Power,Public,Operational,1.0,30.0,CCS (Type 2)
+308905,"Shell Recharge, Chandapura",Attibele,12.78840738219364,77.73682462376587,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2); IEC 60309 3-pin
+308837,Wonderla Bengaluru,Bengaluru,12.838006,77.402104,Statiq (IN),Public,Operational,4.0,60.0,CCS (Type 2); Type 2 (Tethered Connector) 
+308907,Shell Recharge Anekal Road,Naganaikanahalli,12.76356,77.70167,Shell Recharge (IN),Public,Operational,1.0,120.0,CCS (Type 2); IEC 60309 3-pin
+311455,Sowmya Fuel Station,Attibele,12.78393,77.75433,Tata Power,Public,Operational,1.0,30.0,CCS (Type 2)
+308924,Eagleton The Golf Resort,Bidadi,12.80007,77.41324,JIO BP Pulse (India),Public,Operational,1.0,60.0,CCS (Type 2)
+309153,Taj Bangalore,Bengaluru,13.19736,77.71011,Statiq (IN),Public,Operational,1.0,60.0,CCS (Type 2)
